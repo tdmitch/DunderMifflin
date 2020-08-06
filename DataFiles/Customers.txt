@@ -1,0 +1,91 @@
+1|ALFKI|Burns Industries|Charles Montgomery Burns|Sales Representative|47 Echo Lane|Scranton|PA|18505|USA||
+2|ANATR|Los Pollos Hermanos|Gustavo Fring|Owner|Avda. de la 4275 Isleta Blvd SW|Albuquerque|NM|87105|USA||
+3|ANTON|Stark Industries|Tony Stark|Owner|10880 Malibu Point|Malibu|CA|90265|USA||
+4|AROUT|Wayne Enterprises, Inc.|Bruce Wayne|Owner|1007 Mountain Drive|Gotham City|NJ|10201|USA||
+5|BERGS|Monsters, Inc.|James P. "Sulley" Sullivan|Manager|44 Scare Circle|Wazowski|NY|10002|USA||
+6|BLAUS|Bailey Building and Loan Association|George Bailey|Bank Manager|320 Sycamore|Bedford Falls|NY|00201|USA||
+7|BLONP|Bayside High School|Richard Belding|Principal|104 Smith Drive|Palisades|CA|90272|USA||
+8|BOLID|Blue Cat Hotel|Marty Byrde|Owner|13959 Irontown Dr.|Roach|MO|65020|USA||
+9|BONAP|Duke & Duke|Mortimer Duke|Managing Partner|135 South Broad Street|New York|NY|10005|USA||
+10|BOTTM|Macmillan Toys|Josh Baskin|VP of Product Development|40 West 23rd Street|New York|NY|10005|USA||
+11|BSBEV|Paper Street Soap Company|Tyler Durden||537 Paper Street|Wilmington|DE|19808|USA||
+12|CACTU|Relaxicab|Phoebe Buffay|Co-owner|90 Bedford St.|New York|NY|10005|USA||
+13|CENTC|The Derek Zoolander Center for Kids Who Can't Read Good and Who Wanna Learn to Do Other Stuff Good Too|Derek Zoolander|Model|42 Derek Lane|New York|NY|10001|USA||
+14|CHOPS|The Estelle Leonard Talent Agency|Estelle Leonard|Owner|8488 101st Ave #4382|New York|NY|10201|USA||
+15|COMMI|Adventureworks Cycles|W. Gates|Bikemaster|1 Adventureworks Way|Bellevue|WA|98006|USA||
+16|CONSH|Scranton Mimeograph Corp|Raymund Milillo|Accountant II|12 Brewery Lane|Scranton|PA|18505|UK||
+17|DRACD|Miyagi-Do Karate|Nariyoshi Miyagi|Owner|19223 Saticoy Street|Reseda|CA|91335|USA||
+18|DUMON|Duff Beer|Bud Man|Spokesperson|505 Brewer's Lane|Springfield|MO|65619|USA||
+19|EASTC|Gray Matter Technologies|Elliott Schwartz|Cofounder|35 King George|Albuquerque|NM|87105|USA||
+20|ERNSH|Bendini, Lambert, & Locke|Oliver Lambert|Managing Partner|18 Waterway Place|Memphis|TN|38018|USA||
+21|FAMIA|Scranton White Pages|Jan Levinson|Senior Buyer|1411 Parkside Boulevard|Scranton|PA|18105|USA||
+22|FISSA|Vandalay Industries|George Costanza|Senior Manager|131 Mezcal|Scranton|PA|18105|USA||
+23|FOLIG|Acme Industries|R.D. Runner|Director of Acquisitions|184 Canyon Rd.|Scranton|PA|18512|USA||
+24|FOLKO|Binford Tools|Tim Taylor|Product Evangelist|10101 Circular Drive|Dallas|PA|18519|USA||
+25|FRANK|Nakatomi Corporation|John McClain|Director of Security|1 Nakatomi Plaza|Scranton|PA|18105|USA||
+26|FRANR|France Restauration|Carine Schmitt|Marketing Manager|54 Royale|Scranton|PA|18105|USA||
+27|FRANS|Franchi Associates|Paolo Accorti|Sales Representative|34 White Avenue|Dallas|PA|18612|USA||
+28|FURIB|Flashpoint|Nils Attwoull|Accountant III|3204 Rose Lane|Scranton|PA|18505|USA||
+29|GALED|Twinder|Ashil Gaenor|VP Accounting|2929 Catalina|Scranton|PA|18505|USA||
+30|GODOS|Edgeify|Art Wornham|Technical Writer|3034 Romero|Scranton|PA|18505|USA||
+31|GOURL|Zoovu|Upton Woolaston|Actuary|442 Brazil Lane|Scranton|PA|18505|USA||
+32|GREAL|Great Lakes Food Market|Howard Snyder|Marketing Manager|2732 Baker Blvd.|Eugene|OR|97403|USA||
+33|GROSR|Voolith|Claudetta Faltin|Administrative Assistant I|5ª Ave. Los Palos Grandes|Scranton|PA|18505|USA||
+34|HANAR|Twitterwire|Yard Linklater|Assistant Media Planner|57 Lonesome Road|Scranton|PA|18505|USA||
+35|HILAA|Avamba|Jackqueline Spuner|Assistant Professor|8035 Charles St.|Scranton|PA|18505|USA||
+36|HUNGC|Hungry Coyote Import Store|Yoshi Latimer|Sales Representative|City Center Plaza 516 Main St.|Elgin|OR|97827|USA||
+37|HUNGO|Snaptags|Franklin Stovine|Associate Professor|8 Johnstown Road|Scranton|PA|18505|USA||
+38|ISLAT|Linktype|Katrine Cruwys|Automation Specialist IV|Garden House Crowther Way|Scranton|PA|18505|USA||
+39|KOENE|Camido|Lief Capp|Teacher|9104 Mitchell Way|Scranton|PA|18505|USA||
+40|LACOR|Meembee|Joly Kiltie|Systems Administrator IV|6619 Mountainside|Scranton|PA|18505|USA||
+41|LAMAI|Dunmore High School|Jim Jansen|Principal|9372 Lorraine|Scranton|PA|18505|USA||
+42|LAUGB|Stone, Cooper, and Grandy: Attorneys at Law|Aaron Grandy|Senior Partner|1900 Oak St.|Scranton|PA|18505|USA||
+43|LAZYK|Lazy K Kountry Store|Larry Meyers|Marketing Manager|12 Orchestra Terrace|Walla Walla|WA|99362|USA||
+44|LEHMS|Topicware|Arlinda Shillinglaw|Staff Accountant IV|734 Magazine St.|Scranton|PA|18505|USA||
+45|LETSS|Let's Stop N Shop|Jaime Yorres|Owner|87 Polk St. Suite 5|San Francisco|CA|94117|USA||
+46|LILAS|Shufflester|Abby Aloway|Manager|6598 Largo|Scranton|PA|18505|USA||
+47|LINOD|Maguire Marketing Solutions|Phil Maguire|Owner|215 Fourt St.|Scranton|PA|18505|USA||
+48|LONEP|Lonesome Pine Restaurant|Fran Wilson|Sales Manager|89 Chiaroscuro Rd.|Portland|OR|97219|USA||
+49|MAGAA|Topicblab|Lemar Guildford|Software Engineer IV|10492 Moreau Rd.|Scranton|PA|18505|USA||
+50|MAISD|Shufflebeat|Paola Powdrell|Budget/Accounting Analyst IV|532 Benz|Scranton|PA|18505|USA||
+51|MEREP|Demizz|Griff Shelmerdine|Chemical Engineer|44312 Vermont|Scranton|PA|18505|USA||
+52|MORGK|Skinte|Clyve Huntington|Software Consultant|22 Wagon Wheel Dr.|Scranton|PA|18505|USA||
+53|NORTS|Twitterwire|Lonnie Moon|Chief Design Engineer|South House 300 Queensbridge|Scranton|PA|18505|USA||
+54|OCEAN|Innojam|Adiana Windas|Civil Engineer|8585 Montblanc|Scranton|PA|18505|USA||
+55|OLDWO|Old World Delicatessen|Rene Phillips|Sales Representative|2743 Bering St.|Anchorage|AK|99508|USA||
+56|OTTIK|Zazio|Mina Henrie|Senior Sales Associate|369 Westheimer|Scranton|PA|18505|USA||
+57|PARIS|Twitterbeat|Cristine Olivas|Senior Sales Associate|265 Champagne|Scranton|PA|18505|USA||
+58|PERIC|Photojam|Susie Neylan|Senior Quality Engineer|321 Cash Rd.|Scranton|PA|18505|USA||
+59|PICCO|Twitterworks|Keary Daines|Compensation Analyst|1416 Westport|Scranton|PA|18505|USA||
+60|PRINI|Thoughtmix|Judd Salliss|Database Administrator III|3802 Port Charles|Scranton|PA|18505|USA||
+61|QUEDE|Buzzster|Lexie Peaker|Director|1237 Pacific|Scranton|PA|18505|USA||
+62|QUEEN|Midel|John Deckert|Partner|918 Twin Creeks|Scranton|PA|18505|USA||
+63|QUICK|Blue Cross of Pennsylvania|Tom Golden|Senior Buyer|1040 Hospital Way|Scranton|PA|18505|USA||
+64|RANCH|Voolia|Lolita Braksper|Desktop Support Technician|900 Liberty|Scranton|PA|18505|USA||
+65|RATTC|Rattlesnake Canyon Grocery|Paula Wilson|Office Manager|2817 Milton Dr.|Albuquerque|NM|87110|USA||
+66|REGGC|Harper Collins|Daniel Schofield|CEO|1532 Cape Madison|Scranton|PA|18505|USA||
+67|RICAR|Haymont Tires|||267 Strada|Scranton|PA|18505|USA||
+68|RICSU|Thoughtbeat|Winfred Ricca|Environmental Tech|2375 Waypoint|Scranton|PA|18505|USA||
+69|ROMEY|Plambee||Registered Nurse|1 Gran Prix|Scranton|PA|18505|USA||
+70|SANTG|Shuffledrive|Judas Langston|Financial Advisor|6610 Gateway|Scranton|PA|18505|USA||
+71|SAVEA|Benedict and Associates|Elliot Deckert|Sales Representative|187 Suffolk Ln.|Boise|ID|83720|USA||
+72|SEVES|Apex Technology|Gina Rogers|Senior Buyer|90 Wadhurst Rd.|Scranton|PA|18505|USA||
+73|SIMOB|Stone & Son Suit Warehouse|Mark Stone Jr.|Owner|34 Beltway|Scranton|PA|18505|USA||
+74|SPECD|Livetube|Kendre Franca|Recruiting Manager|205 Livingston|Scranton|PA|18505|USA||
+75|SPLIR|Split Rail Beer & Ale|Art Braunschweiger|Sales Manager|P.O. Box 555|Lander|WY|82520|USA||
+76|SUPRD|Outbridge Consulting|Deane Outbridge|GIS Technical Architect|255 Tirou Boulevard|Scranton|PA|18505|USA||
+77|THEBI|Lackawanna County|Christian Meadows|Marketing Manager|89 Jefferson Way Suite 2|Portland|OR|97201|USA||
+78|THECR|The Cracker Box|Liu Wong|Marketing Assistant|55 Grizzly Peak Rd.|Butte|MT|59801|USA||
+79|TOMSP|Ainyx|Yorgos Schwander|Recruiter|48 Prairie|Scranton|PA|18505|USA||
+80|TORTU|Allen Professional Services|Barbara Allen|Owner|123 Aztec Lane|Scranton|PA|18505|USA||
+81|TRADH|East Pennsylvania Seminary|||414 Castro Blvd|Scranton|PA|18505|USA||
+82|TRAIH|Trail's Head Gourmet Provisioners|Helvetius Nagy|Sales Associate|722 DaVinci Blvd.|Kirkland|WA|98034|USA||
+83|VAFFE|Chatterbridge|Pete Skinn|Marketing Assistant|4540 Industrial|Scranton|PA|18505|USA||
+84|VICTE|Realpoint|Archibold Sysland|Payment Adjustment Coordinator|2 Commerce St.|Scranton|PA|18505|USA||
+85|VINET|Brainlounge|Kurtis Shakespeare|Paralegal|59 Bayle Lane|Scranton|PA|18505|USA||
+86|WANDK|Devshare|Maia Danahar|Operator|900 Aberdeen|Scranton|PA|18505|USA||
+87|WARTH|Wikizz|Alwyn Finlayson|Occupational Therapist|38 Turningway Lane|Scranton|PA|18505|USA||
+88|WELLI|Prestige Postal Company|Tom Rammel|Marketing Manager|12 Rue de Mercado|Scranton|PA|18505|USA||
+89|WHITC|White Clover Markets|Karl Jablonski|Owner|305 - 14th Ave. S. Suite 3B|Seattle|WA|98128|USA||
+90|WILMK|Shufflester|Kipper Northing|Marketing Manager|4590 Ketchican|Scranton|PA|18505|USA||
+91|WOLZA|Wikizz|Alwyn Finlayson|Occupational Therapist|1500 Flatiron|Scranton|PA|18505|USA||

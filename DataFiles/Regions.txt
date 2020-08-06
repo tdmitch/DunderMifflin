@@ -1,0 +1,14 @@
+1|Scranton PA|1
+2|Utica, NY|1
+3|Camden, NJ|0
+4|Akron, OH|1
+5|New York (Corporate)|1
+6|Rochester, NY|1
+7|Syracuse, NY|1
+8|Binghamton, NY|0
+9|Buffalo, NY|0
+10|Pittsfield, MA|0
+11|Stamford, CT|0
+12|Yonkers, NY|0
+13|Albany, NY|1
+14|Nashua, NH|1

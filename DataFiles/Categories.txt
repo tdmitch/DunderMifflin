@@ -1,0 +1,8 @@
+1|Printer Paper|Printer paper|
+2|Other Paper Products|Other Paper Products|
+3|Writing instruments|Writing instruments|
+4|Misc. Office Supplies|Misc. Office Supplies|
+5|Electronics|Electronics|
+6|Printers|Printers|
+7|Cleaning and Sanitary Products|Cleaning and Sanitary Products|
+8|Furniture and decor|Furniture and decor|

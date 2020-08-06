@@ -1,0 +1,12 @@
+1|Sabre|Charlotte Cooper|Purchasing Manager|49 Gilbert St.|Scranton|PA|18505|USA|||
+2|Pizza By Alfredo|Shelley Burke|Order Administrator|P.O. Box 78934|Scranton|PA|18505|USA|||
+3|Alfredo's Pizza Cafe|Regina Murphy|Sales Representative|707 Oxford Rd.|Scranton|PA|18505|USA|||
+4|Tokyo Traders|Yoshi Nagase|Marketing Manager|9-8 Sekimai Musashino-shi|Tokyo||100|Japan|(03) 3555-5011||
+5|Office Labs|Anthony Salvana|Export Administrator|Calle del Rosal 4|Oviedo|Asturias|33007|Mexico|(98) 598 76 54||
+6|Prince Paper|Roger Prince|Owner|92 Industrial|Scranton|PA|18505|USA|581/555-0234||Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#
+7|Hammermill|Evan Price|Account Executive|74 Rose St. Moonie Ponds|Melbourne|FL|43268|USA|800/555-0434|(03) 444-6588|
+12|Binghamton Digital|Martin Bein|Marketing Manager|511 Bell Dr.|Binghamton|NY|13901|Germany|(607) 555-4947||
+16|Inked|Cheryl Saylor|Regional Account Rep.|3400 - 8th Avenue Suite 210|Bend|OR|97101|USA|(503) 555-9931||
+19|Laverne's Pies and Tires|Laverne Smith|Owner|Rt. 11 North|Hop Bottom|PA|18824|USA|||
+29|Schrute Farms|Dwight Schrute|Owner|Rural Rt. 6|Honesdale|PA|18431|USA|||
+30|Industrial Supply|Sam Malone|Manager|1139 Oxford Rd.|Scranton|PA|18505||||

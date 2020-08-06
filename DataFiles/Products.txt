@@ -1,0 +1,78 @@
+1|FORAY Magnetic Dry-Erase Board, 8-1/2" x 11", White Board, Black Plastic Frame|FORAY Magnetic Dry-Erase Board, 8-1/2" x 11", White Board, Black Plastic Frame|5|4|Each|3.99|39|0|10|0
+2|Duracell Coppertop Alkaline AA Batteries, Pack Of 24 Batteries|Duracell Coppertop Alkaline AA Batteries, Pack Of 24 Batteries|12|5|24/pack|25.59|17|40|25|0
+3|Dunder Mifflin Notepads, 5" x 8", Narrow Ruled|Dunder Mifflin Notepads, 5" x 8", Narrow Ruled, White, 50 Sheets/Pad, 12 Pads/Pack (51296/23642)|12|2|12/pack|12.44|13|70|25|0
+4|Charmin Essentials Soft 2-Ply Toilet Paper, White, 200 Sheets x 20 Rolls|Charmin Essentials Soft 2-Ply Toilet Paper, White, 200 Sheets x 20 Rolls|7|7|20 rolls/box|15.95|53|0|0|0
+5|GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle (2 pack)|GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle (2 pack)|30|7|2, 32oz bottles|18.9|0|0|0|1
+6|HP 951 Yellow Original Ink Cartridge (CN052AN)|HP 951 Yellow Original Ink Cartridge (CN052AN)|16|6|Each|24.89|120|0|25|0
+7|HP Office20 8.5" x 11" Multipurpose Paper, 1 Ream|HP Office20 8.5" x 11" Multipurpose Paper, 20 lbs., 92 Brightness, 500/Ream (HPC8511)|7|1|1, 500-sheet ream|4.47|15|0|10|0
+8|HP 414A Black Toner Cartridge (W2020A)|HP 414A Black Toner Cartridge (W2020A)|16|6|Each|117.99|6|0|0|0
+9|Sabre Pro M29w All-in-One Wireless Laser Printer (Y5S53A)|Sabre Pro M29w All-in-One Wireless Laser Printer (Y5S53A)|1|6||139.99|29|0|0|1
+10|Hammermill Copy Plus Paper, 8.5" x 11", 10 Reams|Hammermill Copy Plus Paper, 8.5" x 11", 20 lbs., White, 500 Sheets/Ream, 10 Reams/Carton (105007)|7|1|10, 500-sheet reams|32.99|31|0|0|0
+11|Duracell Coppertop Alkaline C Batteries, Box Of 12|Duracell Coppertop Alkaline C Batteries, Box Of 12|12|5|12/box|29.99|22|30|30|0
+12|JAM Paper Booklet Envelopes With Gummed Closure, #10, 4 1/8" x 9 1/2", Brown Kraft, Pack Of 25|JAM Paper Booklet Envelopes With Gummed Closure, #10, 4 1/8" x 9 1/2", Brown Kraft, Pack Of 25|7|1|25/pack|1.99|86|0|0|0
+13|Paper Mate Profile Retractable Ballpoint Pens|Paper Mate Profile Retractable Ballpoint Pens|7|1|1 dozen|6.12|24|0|5|0
+14|JAM Paper Cover Card Stock, 8 1/2" x 11", 36 Lb, Translucent Clear, Pack Of 50 Sheets|JAM Paper Cover Card Stock, 8 1/2" x 11", 36 Lb, Translucent Clear, Pack Of 50 Sheets|7|1|50/pack|23.25|35|0|0|0
+15|Viva Multi-Surface Cloth Choose-A-Sheet Cloth-Like Kitchen Paper Towels|Viva Multi-Surface Cloth Choose-A-Sheet Cloth-Like Kitchen Paper Towels, 11" x 5-15/16", White, 165 Sheets Per Roll, Pack Of 6 Rolls|7|7|6/pack|16.99|39|0|5|0
+16|TUL Retractable Gel Pens, Medium Point, 0.7 mm, Silver Barrel, Blue Ink, Pack Of 12 Pens|TUL Retractable Gel Pens, Medium Point, 0.7 mm, Silver Barrel, Blue Ink, Pack Of 12 Pens|16|3|12/pack|17.99|29|0|10|0
+17|HP 410A Original Black Toner Cartridge (CF410A)|HP 410A Original Black Toner Cartridge (CF410A)|16|6|Each|93.89|0|0|0|1
+18|Universal 8.5" x 11" Multipurpose Paper, 2400/Carton (UNV15802)|Universal 8.5" x 11" Multipurpose Paper, 2400/Carton (UNV15802)|7|1|Cartin (2400 sheets)|77.99|42|0|0|0
+19|TRU RED Pre-Sharpened Wooden Pencil, 2.2mm, #2|TRU RED Pre-Sharpened Wooden Pencil, 2.2mm, #2 Medium Lead, 24/Pack (TR58558)|5|3|24/pack|2.99|25|0|5|0
+20|Mohawk Strathmore 8 1/2" x 11" 24 lbs. Writing Laid Paper, Soft White, 5000/Case|Mohawk Strathmore 8 1/2" x 11" 24 lbs. Writing Laid Paper, Soft White, 5000/Case|7|1|Case (5000 sheets)|289.99|40|0|0|0
+21|TRU RED Premium 5-Subject Notebook, 8.5" x 11"|TRU RED Premium 5-Subject Notebook, 8.5" x 11", College Ruled, 150 Sheets, Black (TR24430)|12|2|Each|9.99|3|40|5|0
+22|Duracell Coppertop 9-Volt Alkaline Batteries, Pack Of 4 Batteries|Duracell Coppertop 9-Volt Alkaline Batteries, Pack Of 4 Batteries|12|5|4/pack|19.38|104|0|25|0
+23|BIC Xtra-Life Mechanical Pencils, No. 2|BIC Xtra-Life Mechanical Pencils, No. 2 Medium Lead, 40/Pack (MPP40MJ-BLK)|5|3|40/pack|6.99|61|0|25|0
+24|Zebra Z-Grip Retractable Ballpoint Pens, Medium Point, Black Ink|Zebra Z-Grip Retractable Ballpoint Pens, Medium Point, Black Ink, 24/Pack (12221)|16|3|24/pack|7.99|20|0|0|1
+25|Sabre Pro 8025 Wireless Inkjet All-In-One Color Printer|Sabre Pro 8025 Wireless Inkjet All-In-One Color Printer|16|6|Each|129.89|76|0|30|0
+26|TRU RED 8.5" x 11" Printer Paper, 3 Reams|TRU RED 8.5" x 11" Printer Paper, 20 lbs., 92 Brightness, 500/Ream, 3 Reams/Carton (TR56959)|7|1|3, 500-sheet reams|14.99|15|0|0|0
+27|Sabre ST-4760 EcoTank Wireless Color Inkjet All-In-One Printer|Sabre ST-4760 EcoTank Wireless Color Inkjet All-In-One Printer, Copier, Scanner, Fax, C11CG19204|16|6|Each|499.99|49|0|30|0
+28|Sabre MFC-L3770CDW Color All-in-One Laser Printer|Sabre MFC-L3770CDW Color All-in-One Laser Printer with Wireless, Duplex Printing and Scanning|1|6||399.99|26|0|0|1
+29|LUX 11 x 17 Paper 250/Pack, Holiday Red Sparkle (1117-P-MS08-250)|LUX 11 x 17 Paper 250/Pack, Holiday Red Sparkle (1117-P-MS08-250)|7|1|250/pack|519.49|0|0|0|1
+30|Epson 200, (T200520) DuraBrite Ultra Standard-Capacity Color Ink Cartridges, Pack Of 3|Epson 200, (T200520) DuraBrite Ultra Standard-Capacity Color Ink Cartridges, Pack Of 3|16|6|3/pack|26.19|10|0|15|0
+31|Bostitch Nano Mini Stapler, 12 Sheets Capacity, Assorted Colors|Bostitch Nano Mini Stapler, 12 Sheets Capacity, Assorted Colors|30|4|Each|5.99|0|70|20|0
+32|Bostitch Spring-Powered Premium Heavy Duty Stapler, Black/Silver|Bostitch Spring-Powered Premium Heavy Duty Stapler, Black/Silver|30|4|Each|39.99|9|40|25|0
+33|BIC Round Stic Ballpoint Pens, Medium Point, 60/Box|BIC Round Stic Ballpoint Pens, Medium Point, 60/Box|5|3|60/box|5|112|0|20|0
+34|JAM Paper #4 Coin Envelopes, 3" x 4-1/2", Brown Kraft, Pack Of 50 Envelopes|JAM Paper #4 Coin Envelopes, 3" x 4-1/2", Brown Kraft, Pack Of 50 Envelopes|7|1|50/pack|6.99|111|0|15|0
+35|FORAY Melamine Dry-Erase Board, 24" x 36", Oak Frame|FORAY Melamine Dry-Erase Board, 24" x 36", Oak Frame|5|4|Each|14.99|20|0|15|0
+36|Power Strip 3 USB 3 Outlet, Desktop Charging Station|Power Strip 3 USB 3 Outlet, Desktop Charging Station 5 ft Extension Cord for Cruise Ship Accessories Dorm Room Plug Extender - White |30|5|Each|19|112|0|20|0
+37|TRU RED Color Printer Paper, 8.5" x 11", 10 Reams|TRU RED Color Printer Paper, 8.5" x 11", 20 lbs., White, 500 Sheets/Ream, 10 Reams/Carton (TR56962)New Look!CompareTRU RED Color Printer Paper, 8.5" x 11", 20 lbs., White, 500 Sheets/Ream, 10 Reams/Carton |7|1|10, 500-sheet reams|55.99|11|50|25|0
+38|Earthchoice Office Paper, 8 1/2" x 11", 40 Cases/Pallet|Earthchoice Office Paper, 8 1/2" x 11", 40 Cases/Pallet|7|1|Pallet (40 cases)|2240|17|0|15|0
+39|Post-it Notes, 3" x 3", Canary Yellow, Pack Of 18 Pads|Post-it Notes, 3" x 3", Canary Yellow, Pack Of 18 Pads|12|2|18 pads|17.99|69|0|5|0
+40|Post-it Notes, 1-1/2" x 2", Cape Town, Pack Of 12 Pads|Post-it Notes, 1-1/2" x 2", Cape Town, Pack Of 12 Pads|12|2|12 pads|7.99|123|0|30|0
+41|TRU RED 3-Subject Notebook, 8" x 10.5", Wide Ruled, 120 Sheets|TRU RED 3-Subject Notebook, 8" x 10.5", Wide Ruled, 120 Sheets, Assorted Colors, 3/Pack (TR11669)|12|2|3/pack|8.99|85|0|10|0
+42|JAM Paper Open-End Catalog Envelopes With Clasp Closure, 10" x 13", 100% Recycled|JAM Paper Open-End Catalog Envelopes With Clasp Closure, 10" x 13", 100% Recycled, Chocolate Brown, Pack Of 10|7|1|10/pack|7.49|26|0|0|1
+43|Staples 9.5" x 11" Continuous Paper, 18 lbs., 92 Brightness, 2500/Carton (25522/246728)|Staples 9.5" x 11" Continuous Paper, 18 lbs., 92 Brightness, 2500/Carton (25522/246728)|7|1|Carton (2500 sheets)|76.69|17|10|25|0
+44|Lithium Laptop Battery|Lithium Laptop Battery|12|5|Each|19.45|27|0|15|0
+45|Staples 1 Subject Notebook, 8.5" x 11", College Ruled, 100 Sheets|Staples 1 Subject Notebook, 8.5" x 11", College Ruled, 100 Sheets, Assorted, 3/Pack (11671M)|12|2|Each|0.75|5|70|15|0
+46|Dunder Mifflin Brand Permanent Markers, Fine Point|Dunder Mifflin Brand Permanent Markers, Fine Point, 100% Recycled, Assorted Colors, Pack Of 12|5|3|12/pack|6.99|95|0|0|0
+47|TRU RED 1-Subject Notebook, 8" x 10.5", Wide Ruled|TRU RED 1-Subject Notebook, 8" x 10.5", Wide Ruled, 70 Sheets, Assorted Colors (TR54893)|12|2|Each|0.25|36|0|0|0
+48|Office Depot Copy And Print Paper, Letter Size (8 1/2" x 11"), 20 Lb, Ream Of 500 Sheets|Office Depot Copy And Print Paper, Letter Size (8 1/2" x 11"), 20 Lb, Ream Of 500 Sheets|7|1|1 ream/500 sheet|5.99|15|70|25|0
+49|Bostitch InPower Premium Spring-Powered Desktop Stapler, 28 Sheets Capacity, Black/Silver|Bostitch InPower Premium Spring-Powered Desktop Stapler, 28 Sheets Capacity, Black/Silver|30|4|Each|23.99|10|60|15|0
+50|Power Strip with 3 USB 3 Outlet, Desktop Charging Station|Power Strip with 3 USB 3 Outlet, Desktop Charging Station 5 ft Extension Cord for Cruise Ship, Dorm Room Multi Plug Extender - Black |30|5|Each|16.99|65|0|30|0
+51|Sabre HL-L6200DW USB, Wireless, Network Ready Black & White Laser Printer|Sabre HL-L6200DW USB, Wireless, Network Ready Black & White Laser Printer|1|6||219.99|20|0|10|0
+52|Dunder Mifflin Smooth Paper Clips, Silver|Dunder Mifflin Smooth Paper Clips, Silver, 100/Box, 10 Boxes/Pack (A7026607/72377)|7|1|1000/pack|5.29|38|0|25|0
+53|GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle (3 pack)|GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle (3 pack)|30|7|3, 32oz bottles|26.99|0|0|0|1
+54|JAM Paper Colored Standard Paper Clips, Small 1 Inch, Orange Paperclips|JAM Paper Colored Standard Paper Clips, Small 1 Inch, Orange Paperclips, 2 Packs of 100 (42186870a)|7|1|2 packs|8.75|21|0|10|0
+55|Kleenex COTTONELLE 2-Ply Toilet Paper, 451 Sheets Per Roll, Case Of 60 Rolls|Kleenex COTTONELLE 2-Ply Toilet Paper, 451 Sheets Per Roll, Case Of 60 Rolls|7|7|60 rolls/box|59.74|115|0|20|0
+56|FORAY Magnetic Dry-Erase Board With Aluminum Frame, 36" x 48", White Board, Silver Frame|FORAY Magnetic Dry-Erase Board With Aluminum Frame, 36" x 48", White Board, Silver Frame|5|4|Each|61.99|21|10|30|0
+57|Mindspace Office Desk Organizer with 6 Compartments|Mindspace Office Desk Organizer with 6 Compartments + Drawer + Pen & Pencil Holder, Silver |4|8|Each|19.5|36|0|20|0
+58|Paper Mate Flair Porous-Point Pens, Medium Point, 0.7 mm, Assorted Ink Colors, Pack Of 12 Pens|Paper Mate Flair Porous-Point Pens, Medium Point, 0.7 mm, Assorted Ink Colors, Pack Of 12 Pens|7|1|12/pack|9.99|62|0|20|0
+59|Sabre Pro M454dn USB & Network Ready Color Laser Printer with Duplexing, White (W1Y44A#BGJ)|Sabre Pro M454dn USB & Network Ready Color Laser Printer with Duplexing, White (W1Y44A#BGJ)|1|6||299.99|79|0|0|0
+60|Realspace Economy Studded Chair Mat For Low-Pile Carpets, 36" x 48", Clear |Realspace Economy Studded Chair Mat For Low-Pile Carpets, 36" x 48", Clear |4|8|Each|34.99|19|0|0|0
+61|TRU RED Printer Paper, 8.5" x 11", 5 Reams|TRU RED Printer Paper, 8.5" x 11", 20 lbs., White, 500 Sheets/Ream, 5 Reams/Carton (TR56960)|7|1|5, 500-sheet reams|22.25|113|0|25|0
+62|Staples 9.5" x 11" Carbonless Paper, 15 lbs, 100 Brightness, 1100/Carton (ST287219/287219)|Staples 9.5" x 11" Carbonless Paper, 15 lbs, 100 Brightness, 1100/Carton (ST287219/287219)|7|1|Carton (1100 sheets)|160.99|17|0|0|0
+63|Xerox Vitality Multi-Use Printer Paper, Letter Size|Xerox Vitality Multi-Use Printer Paper, Letter Size (8-1/2" x 11"), 92 (U.S.) Brightness, 20 Lb, FSC Certified, Ream Of 500 Sheets, Case Of 10 Reams|7|1|Case/10 reams|65.99|24|0|5|0
+64|Realspace Hard-Floor Chair Mat, Wide Lip, 45" x 53", Translucent |Realspace Hard-Floor Chair Mat, Wide Lip, 45" x 53", Translucent |4|8|Each|33.25|22|80|30|0
+65|GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle |GERM-X Original Hand Sanitizer, 32-Oz Flip-Cap Bottle |30|7|1, 32oz bottle|9.99|76|0|0|0
+66|TUL Retractable Gel Pens, Medium Point, 0.7 mm, Silver Barrel, Black Ink, Pack Of 12 Pens|TUL Retractable Gel Pens, Medium Point, 0.7 mm, Silver Barrel, Black Ink, Pack Of 12 Pens|16|3|12/pack|16.99|4|100|20|0
+67|JAM Paper Plastic Legal Booklet Envelopes With Hook and Loop Closure, 9-3/4" x 14-1/2"|JAM Paper Plastic Legal Booklet Envelopes With Hook and Loop Closure, 9-3/4" x 14-1/2", Assorted Colors, Pack Of 6 Envelopes|7|1|6/pack|13.5|52|0|10|0
+68|Scotch Desktop Tape Dispenser Silvertech, Two-Tone (C60-St), Black/Silver, 1 Pack |Scotch Desktop Tape Dispenser Silvertech, Two-Tone (C60-St), Black/Silver, 1 Pack |5|4|Each|3.98|6|10|15|0
+69|Realspace MFTC 200 Mesh Multifunction Ergonomic Mid-Back Task Chair, Black|Realspace MFTC 200 Mesh Multifunction Ergonomic Mid-Back Task Chair, Black|4|8|Each|114.99|26|0|15|0
+70|The Red Swingline Stapler|The Red Swingline Stapler|30|4|Each|15.99|15|10|30|0
+71|Angel Soft Professional Series by GP PRO Premium|Angel Soft Professional Series by GP PRO Premium 2-Ply Embossed Toilet Paper, 450 Sheets Per Roll, 80 Rolls Per Case|30|7|80 rolls/case|70.29|26|0|0|0
+72|HP 951XL High Yield Original Ink Cartridge, Cyan (CN046AN)|HP 951XL High Yield Original Ink Cartridge, Cyan (CN046AN)|16|6|Each|34.89|14|0|0|0
+73|Mindspace 3 Tier Desk Tray Office Organizer, Silver|Mindspace 3 Tier Desk Tray Office Organizer, Silver|4|8|Each|14.99|101|0|5|0
+74|Dunder Mifflin Notepad, 8.5" x 11" |Dunder Mifflin Notepad, 8.5" x 11" (US letter), Narrow Ruled, White, 50 Sheets/Pad, Dozen Pads/Pack (DM57420)|12|2|12/pack|15.11|4|20|5|0
+75|Dunder Mifflin Jumbo Paper Clips, Assorted Colors|Dunder Mifflin Jumbo Paper Clips, Assorted Colors, 500/Pack (40653)|7|1|500/pack|12.09|125|0|25|0
+76|Dunder Mifflin Brand All-Purpose Envelopes, #9, 3 7/8" x 8 7/8", White, Box Of 500|Dunder Mifflin Brand All-Purpose Envelopes, #9, 3 7/8" x 8 7/8", White, Box Of 500|30|2|500/box|27.49|57|0|20|0
+77|Zebra Z-Grip Retractable Ballpoint Pens, Medium Point, 1.0 mm, Clear Barrel, Black Ink, Pack Of 24|Zebra Z-Grip Retractable Ballpoint Pens, Medium Point, 1.0 mm, Clear Barrel, Black Ink, Pack Of 24|16|3|24/pack|13.49|32|0|15|0
+78|Suzano Report Premium 8.5" x 11" Multipurpose Paper, 840 Reams/Trailer|Suzano Report Premium 8.5" x 11" Multipurpose Paper, 20 lbs., 100 Brightness, 500 Sheets/Ream, 840 Reams/Trailer (21032450)|7|1|Trailer load (840 reams)|23499.99|0|1|1|0

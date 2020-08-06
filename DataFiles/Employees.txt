@@ -1,0 +1,52 @@
+1|Mifflin|Robert||Co-founder|Mr.|1919-02-14|1949-01-01|1972-08-18||507 - 20th Ave. E. Apt. 2A|Seattle|WA|98122|USA|(206) 555-9857||Deceased in 1972|||-3
+2|Dunder|Robert||Co-founder|Mr.|1920-03-27|1949-01-01|2012-04-28||908 W. Capital Way|Tacoma|WA|98401|USA|(206) 555-9482|3457|Deceased in 2012|||-3
+3|Bratton|Creed||Quality assurance rep|Mr|1925-11-01|1990-07-31|2013-05-16||722 Moss Bay Blvd.|Scranton|PA|18512 |USA|(570) 555-3412||Incarcerated as of May 16, 2013|||-2
+4|Hudson|Stanley||Salesperson|Mr.|1958-02-19|1996-04-04|2013-03-16||P.O. Box 622|Goodland|FL|34140|USA|None|||||-3
+5|Scott|Michael||Regional Manager|Mr.|1965-03-15|1992-05-06|2011-04-28|2009-04-23|14 Garrett Hill|Boulder|CO|80302|USA|(303) 555-4848|3453||||-2
+6|Vance|Phyllis||Salesperson|Mrs.|1965-07-10|2001-08-11|||Coventry House Miner Rd.|Scranton|PA|18512|USA|(570) 555-3429|428||||0
+7|Schrute|Dwight||Regional Manager|Mr.|1970-01-20|1994-01-02|2007-01-11|2007-01-18|Rural Rt. 6|Honesdale|PA|18431|USA|None|147||9||0
+8|Flenderson|Toby||Human Resources Coordinator|Mr.|1963-02-22|1996-03-05|2013-05-16|2008-11-20|4726 - 11th Ave. N.E.|New York|NY|10001|USA|(570) 555-1189|||||-2
+9|Wallace|David||CEO|Mr.|1965-02-13|2012-05-03|||1485 Lomita Drive |Clarks Summit|PA|18411|USA|Unlisted|||||0
+10|Halpert|Jim||Salesperson|Mr.|1978-10-01|1998-12-04|2013-05-16||336 E. 14th St.|Austin|TX|78702 |USA||||||-2
+11|Schrute|Angela||Director of Accounting|Mrs.|1974-11-11|1999-08-07|||Rural Rt. 6|Honesdale|PA|18431|USA|None|||7||0
+12|Martinez|Oscar||Accountant|Senator|1972-03-08|1999-09-07|||37 Somerset Lane|Dallas|PA|18612|USA|Unlisted|||7||0
+13|Anderson|Roy||Warehouse Associate|Mr.|1973-07-25|2004-07-07|2007-04-05||18 Anderson Court|Clarks Summit|PA|18411|USA||||||-2
+14|Halpert|Pam||Office Manager|Mrs.|1979-03-25|1999-11-02|2013-05-16||336 E. 14th St.|Austin|TX|78702|USA||||||-2
+15|Palmer|Meredith||Supplier Relations Manager|Dr.|1959-11-12|1997-01-21|||4421 Coyle Pl|Scranton|PA|18509|USA|None|128||7||0
+16|White|Devon||Quality Assurance Manager|Mr.|1958-04-16|2003-04-12|2005-10-18|2013-05-16|131 E. 14th St. Apt 212|Scranton|PA|18509|USA|(570) 555-4996|134||7||0
+17|Truck|Ed||Regional Manager|Mr.|1937-06-06|1981-06-06|2001-09-07|||||||||Deceased 2006|||-3
+19|Kapoor|Kelly||Customer Service Representative|Ms.|1980-02-05|1999-06-08|||123 Main St.|Scranton|PA|18509|USA||203||7||0
+20|Packer|Todd||Salesperson|Mr.|1962-08-24|1988-08-11|2012-03-08||64 Route 23 East|Hump Hill|PA|18862|USA||||||-2
+21|Bernard|Andrew|Baines|Regional Manager|Mr.|1973-12-25|2002-03-01|2013-05-02||16 Alumni Boulevard, Apt 633|Ithaca|NY|14850|USA|(607) 555-0349|||||-2
+22|Philbin|Darryl||Warehouse Director|Mr.|1971-10-25|2001-09-04|2013-05-09||408 E. 14th St.|Austin|TX|78702|||||||-3
+23|Malone|Kevin||Accountant||1968-06-01|2002-02-28|2013-05-16||3030 Adams|Scranton|PA|18505|USA|570-555-0137|||||-3
+24|Peets|Tom||Accountant|Mr.|1970-08-27|2002-08-27|2004-12-24||1921 E. Mill Road|Scranton|PA|18505|USA||||||-3
+25|Howard|Ryan|Bailey|Temp|Mr.|1979-07-31|2008-09-25|2008-05-15|2008-09-25|123 Main St.|Scranton|PA|18509|USA||||7||0
+26|Levinson|Jan||Director|Ms.|1967-06-29|2002-03-31|2007-05-17||647 Penthouse Way, Suite 1834|Scranton|PA|18509|USA||||||-3
+27|Porter|Joshua||Regional Manager|Mr.|1965-09-09|2002-03-31|2006-11-09||3211 Puskar Way|San Francisco|CA|94105|USA||||||-3
+28|Filippelli|Karen||Regional Manager||1976-02-25|2003-04-01|||804 Carson|Utica|NY|13501|USA|315/555-2477|1604||9||0
+29|Kelley|Louanne||Customer Service Representative||1951-04-30|1987-07-07|2007-01-06||7 Beachfront Way|Los Angeles|CA|90001|USA||||||-3
+30|Bennett|Jo||CEO|Ms.|1949-02-28|2010-02-01|2012-05-03||18 Beachport|Tallahassee|FL|32301|USA|850-555-6691|||||-2
+31|California|Robert||CEO|Mr.|1960-02-07|2011-05-19|2012-05-03||74E Scholl 49B|Brasov||605409|RO||||||-2
+32|Vickers|Deangelo|Jeremitrius|Regional Manager|Mr.|1967-07-16|2011-04-14|2011-05-05||515 Westpoint Circle|Scranton|PA|18505|USA|||Deceased 2011|||-3
+33|Simms|Cathy||Office Manager|Ms.|1983-12-08|2011-11-10|2012-03-15||99581 Industrial, #5329|Tallahassee|FL|32301|USA|850/555-8171|||||-3
+34|Hannon|Kelly|Erin|Receptionist|Miss|1986-05-01|2009-04-09|||1438A Southwest Boulevard|Scranton|PA|18505|USA|5705555519|||7||0
+35|Flax|Hollis|Partridge|Human Resources Manager|Ms.|1972-03-03|2007-05-15|2011-04-28||14 Garrett Hill|Boulder|CO|80302||(303) 555-4848|||||-3
+36|Miner|Charles||Director|Mr.|1972-09-06|2009-03-19|2009-12-10||18434 87th Ave #2324|New York|NY|10005|USA|212/555-5477|||||-3
+37|Lewis|Gabriel|Susan|Special Projects Coordinator|Mr.|1982-08-22|2009-12-01|2012-05-10||816 Glasgow Lane|Dallas|PA|18612|USA|570/555-0157|||||-3
+38|Green|Clark||Salesperson|Mr.|1985-05-05|2012-09-20|||16 Tropicana Blvd. #1196|Scranton|PA|18505|USA|570/555-3307|||7||0
+39|Gross|Lloyd||Salesperson|Mr.|1970-01-01|2012-01-01|||||||||||7||0
+41|Miller|Pete||Customer Service Representative|Mr.|1985-02-14|2012-09-20|||16 Tropicana Blvd. #707|Scranton|PA|18505|USA|(570)555-0004|||7||0
+42|Bertram|Nellie||Special Projects Coordinator|Ms.|1970-10-12|2011-05-19|2013-05-16||||||||||||-3
+43|Cordray|Danny||Salesperson||1971-01-02|2010-10-21|||9731 Executive Court|Scranton|PA|18505|USA|(570)555-9162|||7||0
+44|Johnson|Val||Warehouse Manager||1974-06-17|2011-10-06|||1484 Main St. #514|Scranton|PA|18505|USA||||44||0
+45|Hasagawa|Hidetoshi||Warehouse Associate||1962-01-30|2005-02-01|||1484 Main St. #1171|Scranton|PA|18505|USA|5705555099|||||0
+46|Nickerson|Nate||Warehouse Associate||1975-12-14|2010-10-14|||||||||||44||0
+48|Trundell|Gary||Warehouse Associate||1966-03-08|1997-01-18|2003-06-02||||||||||||-3
+49|DiCanio|Jerry||Warehouse Associate||1934-09-22|2000-09-22|2012-09-22|||||||||Deceased 2012|||-3
+50|Lester|Glenn||Warehouse Associate|Mr.|1968-06-30|2005-09-01|||1651 Drury Lane|Scranton|PA|18509|USA|5705554391|||44||0
+51|Collins|Lonny||Warehouse Associate|Mr.|1969-12-07|2002-01-14|2011-11-29||||||||||||-3
+52|Madsen|Madge||Warehouse Associate|Ms.|1962-10-29|2002-01-21|||834 Upland Drive|Scranton|PA|18509|USA|9035553480|||44||0
+53|Raymond|Hunter||Executive Assistant||1989-04-17|2006-09-05|2007-05-20||||||||||||-3
+54|Garfield|Jordan||Executive Assistant|||2011-05-05|2011-05-19||1131 Echo Lane|McKinney|TX|75070|||||||-3
+55|Jannerone|Harry||Salesperson||1956-10-28|2004-05-02|||63 Escalade Circle|Binghamton|NY|13554|USA||||||0

@@ -103,7 +103,18 @@ WITH (
 
 
 BULK INSERT dbo.Orders
-FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\Orders.txt'
+FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\Orders1.txt'
+WITH (
+	KEEPIDENTITY
+	, DATAFILETYPE = 'char'
+	, FIELDQUOTE = '"'
+	, FIELDTERMINATOR = '|'
+	, ROWTERMINATOR = '\n'
+)
+
+
+BULK INSERT dbo.Orders
+FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\Orders2.txt'
 WITH (
 	KEEPIDENTITY
 	, DATAFILETYPE = 'char'
@@ -114,7 +125,18 @@ WITH (
 
 
 BULK INSERT dbo.OrderDetails
-FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\OrderDetails.txt'
+FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\OrderDetails1.txt'
+WITH (
+	KEEPIDENTITY
+	, DATAFILETYPE = 'char'
+	, FIELDQUOTE = '"'
+	, FIELDTERMINATOR = '|'
+	, ROWTERMINATOR = '\n'
+)
+
+
+BULK INSERT dbo.OrderDetails
+FROM 'E:\Dropbox\Projects\DunderMifflin\DataFiles\OrderDetails2.txt'
 WITH (
 	KEEPIDENTITY
 	, DATAFILETYPE = 'char'

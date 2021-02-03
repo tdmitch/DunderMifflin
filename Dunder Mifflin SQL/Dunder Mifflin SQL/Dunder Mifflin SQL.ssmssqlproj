@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="(local):SQL2017DEMO\Tim">
+        <ConnectionNode Name="(local):AzureAD\TimMitchell">
           <Created>2020-08-05T14:04:00.96907-05:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
@@ -19,47 +19,35 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="050 Create and load People.sql">
+        <FileNode Name="010 Create DunderMifflin Database.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>050 Create and load People.sql</FullPath>
+          <FullPath>010 Create DunderMifflin Database.sql</FullPath>
         </FileNode>
-        <FileNode Name="100 Update Salesperson for Orders.sql">
+        <FileNode Name="100 Create DB Objects.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>100 Update Salesperson for Orders.sql</FullPath>
+          <FullPath>100 Create DB Objects.sql</FullPath>
         </FileNode>
-        <FileNode Name="400 Create DunderMifflin DB.sql">
+        <FileNode Name="110 Import Data.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>400 Create DunderMifflin DB.sql</FullPath>
+          <FullPath>110 Import Data.sql</FullPath>
         </FileNode>
-        <FileNode Name="401 Create DB Objects.sql">
+        <FileNode Name="120 Update Salesperson for Orders.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>401 Create DB Objects.sql</FullPath>
+          <FullPath>120 Update Salesperson for Orders.sql</FullPath>
         </FileNode>
-        <FileNode Name="501 Load Data 1.sql">
+        <FileNode Name="900 Create and load Import People.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>501 Load Data 1.sql</FullPath>
-        </FileNode>
-        <FileNode Name="502 Load Data 2.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>502 Load Data 2.sql</FullPath>
-        </FileNode>
-        <FileNode Name="503 Load Data 3.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>503 Load Data 3.sql</FullPath>
+          <FullPath>900 Create and load Import People.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
